@@ -1,0 +1,8 @@
+[EXAGGERATION]
+0.8
+
+[REFERENCE_AUDIO]
+voices/sample.wav
+
+[DIALOGUE]
+[breath] The containment seals are failing! [gasp] We have less than thirty seconds before the reactor vents!
