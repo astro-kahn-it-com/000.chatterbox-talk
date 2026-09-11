@@ -1,0 +1,30 @@
+# Python binaries & virtual environment
+python_embeded/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model weights & Hugging Face / PyTorch caches
+models/
+cache/
+*.safetensors
+*.pt
+*.bin
+*.onnx
+
+# Generated audio & media outputs
+output/
+*.wav
+*.mp3
+*.flac
+
+# Local reference voices (uncomment if you want to keep them local-only)
+# voices/*
+# !voices/.gitkeep
+
+# Windows system files & IDE artifacts
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
